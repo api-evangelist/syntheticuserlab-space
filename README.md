@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SyntheticUser Lab provides an AI‑assisted platform for testing Figma prototypes with synthetic personas. Teams can run usability simulations, receive directional reports, and get prioritized fixes without recruiting real users. The service targets B2B SaaS product teams, agencies, and product managers seeking rapid feedback on design flows. Features include AI‑generated user personas, automated click‑heatmaps, and actionable recommendations, all delivered via a web dashboard and exportable reports.
+SyntheticUser Lab provides an AI‑powered synthetic user testing platform that lets product teams run usability simulations on Figma prototypes, URLs, or screenshots. By generating AI personas with defined goals, objections, and contexts, the service captures task flows, click paths, heatmaps, and sentiment to surface usability issues, prioritize fixes, and accelerate product decisions. Plans range from indie solo founders to enterprise agencies, offering API access, white‑label reporting, and collaborative workspaces.
 
-**Areas:** AI · UserTesting · Prototyping · SaaS · Synthetic Personas · Company
+**Areas:** AI · UsabilityTesting · SyntheticUsers · SaaS · ProductManagement
 
 ## SyntheticUser Lab on APIs.io
 
 Everything profiled for SyntheticUser Lab is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/syntheticuserlab-space/](https://apis.io/providers/syntheticuserlab-space/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [SyntheticUser Lab API](https://apis.io/apis/syntheticuserlab-space/syntheticuser-lab-api/) — API for SyntheticUser Lab platform, documented on the pricing page.
 
 ### Published properties
 
@@ -103,18 +99,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 14.2** — emerging · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 13.4** — emerging · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 48.5 |
 
-**Agent readiness 3.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -140,9 +136,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
 **Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
